@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NeredeNeYasak/static/css/main.2b458aa8.chunk.css",
+    "main.js": "/NeredeNeYasak/static/js/main.aeba3d71.chunk.js",
+    "main.js.map": "/NeredeNeYasak/static/js/main.aeba3d71.chunk.js.map",
+    "runtime-main.js": "/NeredeNeYasak/static/js/runtime-main.e9685f75.js",
+    "runtime-main.js.map": "/NeredeNeYasak/static/js/runtime-main.e9685f75.js.map",
+    "static/js/2.d5f137f3.chunk.js": "/NeredeNeYasak/static/js/2.d5f137f3.chunk.js",
+    "static/js/2.d5f137f3.chunk.js.map": "/NeredeNeYasak/static/js/2.d5f137f3.chunk.js.map",
+    "index.html": "/NeredeNeYasak/index.html",
+    "static/css/main.2b458aa8.chunk.css.map": "/NeredeNeYasak/static/css/main.2b458aa8.chunk.css.map",
+    "static/js/2.d5f137f3.chunk.js.LICENSE.txt": "/NeredeNeYasak/static/js/2.d5f137f3.chunk.js.LICENSE.txt",
+    "static/media/riskHaritasi.2f270d9c.png": "/NeredeNeYasak/static/media/riskHaritasi.2f270d9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9685f75.js",
+    "static/js/2.d5f137f3.chunk.js",
+    "static/css/main.2b458aa8.chunk.css",
+    "static/js/main.aeba3d71.chunk.js"
+  ]
+}

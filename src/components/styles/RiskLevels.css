@@ -1,0 +1,37 @@
+.red{
+    background-color:red;
+    color:white;
+}
+
+.green{
+    background-color:green;
+    color:white;
+}
+
+.orange{
+    background-color:orange;
+    color:white;
+}
+table { 
+    border-collapse: separate; 
+    border-spacing: 0 10px; 
+    margin-top: -10px; 
+    text-align : center;
+}
+td {
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    display : flex;
+    align-items : center;
+    justify-content: center;
+}
+td:first-child{
+    border : 2px solid #000;
+}
+
+    
+.r-container{
+    margin : 0px 10px;
+    font-size : 1rem;
+}

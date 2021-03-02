@@ -1,0 +1,16 @@
+.selection{
+    outline: none;
+    width: 250px;
+    height: 40px;
+    border : 2px solid #000;
+    border-radius:10px;
+    background-color : #f8f8f8;
+    text-align-last:center;
+    
+    
+    -webkit-border-radius: 10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+    -webkit-border-radius:10px;
+}

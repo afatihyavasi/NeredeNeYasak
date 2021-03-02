@@ -1,6 +1,6 @@
-import cities from './Cities.js'
+import cities from './Cities.js';
+import './styles/DropDown.css'
 const cityKeys = Object.keys(cities);
-
 const Dropdown = (props) => {
 
     const handleDropdown = (e) => {
@@ -8,9 +8,10 @@ const Dropdown = (props) => {
     }
 
     return (
-        <select id="dropdown" name="city" onChange={(e) => handleDropdown(e)} >
+     
+        <select className = "selection" onChange={(e) => handleDropdown(e)} >
             {cityKeys.map((city) => (
-                <option value={cities[city]} key={city}>{city}</option>
+                <option value={city} key={city}>{city}</option>
             ))}
         </select>
     );

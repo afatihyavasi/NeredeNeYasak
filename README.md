@@ -1,5 +1,5 @@
 # Nerede ne yasak ?
-![Uploading Ekran Resmi 2021-03-03 12.11.41.png…]()
+![Ekran Resmi 2021-03-03 12 11 41](https://user-images.githubusercontent.com/22716658/109782285-c53bf680-7c19-11eb-80a1-3d0e047fedcf.png)
 
 > [Live Demo](http://afatihyavasi.me/NeredeNeYasak/)<br>
 
